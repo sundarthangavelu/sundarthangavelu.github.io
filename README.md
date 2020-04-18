@@ -1,2 +1,2 @@
-# CintiaLopes.github.io
-Cintia Lopes Martins' personal github page
+# https://sundarthangavelu.github.io/
+Sundar Thangavelu personal github page
