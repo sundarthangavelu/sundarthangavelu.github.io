@@ -1,2 +1,1 @@
-# sundarthangavelu.github.io/
-Sundar Thangavelu personal github page
+# SundarThangavelu personal github page
